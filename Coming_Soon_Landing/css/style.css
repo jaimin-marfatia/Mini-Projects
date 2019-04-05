@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+}
+
+html,
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+    background: #333;
+    overflow: hidden;
+}
+
+.landing {
+    position: relative;
+    background-image: url('../img/img1.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
